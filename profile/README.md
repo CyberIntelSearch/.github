@@ -21,7 +21,7 @@ To be defined
 
 - ### **[Automatic Generation of Distributed Algorithms with Generative AI](https://www.researchgate.net/publication/371760975_Automatic_Generation_of_Distributed_Algorithms_with_Generative_AI)**
   - *Authors*: Diogo Vaz, David R.Matos, Miguel Pardal, Miguel Correia
-  - *Publication*: The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks- Disrupt Track (conference)
+  - *Publication*: The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Disrupt Track (conference)
 
 - ### **[Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning](https://www.researchgate.net/publication/371705768_Synthesis_of_Fault-Tolerant_Reliable_Broadcast_Algorithms_with_Reinforcement_Learning)**
   - *Authors*: Diogo Vaz, David R.Matos, Miguel Pardal, Miguel Correia
