@@ -5,7 +5,7 @@ Therefore, this team studies the use of machine-learning techniques in the resea
 
 Currently, we are studying machine-learning techniques on:
 
-- Generation of fault-tolerant distributed algorithms
+- Generating fault-tolerant distributed algorithms;
 
 </br>
 
