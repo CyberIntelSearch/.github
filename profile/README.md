@@ -1,5 +1,5 @@
-#👨‍💻 Team Members
+# 👨‍💻 Team Members
 
 TBD
 
-#🔬 Research Topics
+# 🔬 Research Topics
