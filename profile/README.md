@@ -20,5 +20,7 @@
 
 - [DisTcoverAI: discovering new distributed algorithms with Artificial Intelligence](https://docs.google.com/document/d/1d-PFThEwJ98H_nY4nVXd0ep_X2lFnK4J/edit)
 
+Interested in any topic? Send an email to **diogo.vaz@tecnico.ulisboa.pt**
 
+---
 *last update: May 2024*
