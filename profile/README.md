@@ -6,10 +6,10 @@
 
 ### 🟢 Current members:
 
-| **Name** | **Role** | **Topic** |
-| --- | --- | --- |
-| [Diogo Vaz](https://diogolvaz.github.io/) | PhD Student and Supervisor | *Solving Distributed Systems' problems using Generative AI* |
-| [Henrique Cavaco](https://pt.linkedin.com/in/henriquecavaco) | Master Student | *BroadAlert: Automatic Generation of Distributed IoT Algorithms with Machine Learning* |
+| **Name** | **Role** | **Topic** | **Date** |
+| --- | --- | --- | --- |
+| [Diogo Vaz](https://diogolvaz.github.io/) | PhD Student and Supervisor | *Solving Distributed Systems' problems using Generative AI* | 2021- |
+| [Henrique Cavaco](https://pt.linkedin.com/in/henriquecavaco) | Master Student | *BroadAlert: Automatic Generation of Distributed IoT Algorithms with Machine Learning* | 2024- |
 
 
 ### 🔴 Past members:
