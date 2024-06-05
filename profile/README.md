@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | [Diogo Vaz](https://diogolvaz.github.io/) | PhD Student and Supervisor | *Solving Distributed Systems' problems using Generative AI* | 2021- |
 | [Henrique Cavaco](https://pt.linkedin.com/in/henriquecavaco) | Master Student | *BroadAlert: Automatic Generation of Distributed IoT Algorithms with Machine Learning* | 2024- |
+| [Ricardo Toscanelli](www.linkedin.com/in/ricardo-toscanelli) | Master Student | *DisTcoverAI: discovering new distributed algorithms with Artificial Intelligence* | 2024- |
 
 
 ### 🔴 Past members:
@@ -18,9 +19,11 @@
 
 ### Current Master topics:
 
-- [DisTcoverAI: discovering new distributed algorithms with Artificial Intelligence](https://docs.google.com/document/d/1d-PFThEwJ98H_nY4nVXd0ep_X2lFnK4J/edit)
-
-Interested in any topic? Send an email to **diogo.vaz@tecnico.ulisboa.pt**
+*closed*
 
 ---
-*last update: May 2024*
+
+Interested in any topic or with an idea that merges the fields of Distributed Computing, Cybersecurity, and Artificial Intelligence? Send an email to **diogo.vaz@tecnico.ulisboa.pt**
+
+---
+*last update: June 2024*
