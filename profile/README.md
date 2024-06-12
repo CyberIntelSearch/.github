@@ -17,7 +17,7 @@
 
 # 🔬 Research Topics
 
-### Current Master topics:
+### Master topics:
 
 *closed*
 
