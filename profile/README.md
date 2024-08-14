@@ -1,19 +1,23 @@
 
 # 💡 Team
 
-*Artificial Intelligence (AI) is revolutionizing the world, from its applications in the advance of science, to its use in our daily routines. Therefore, the question about the application of AI to the distributed and secure computing fields is not anymore a question of "if", but a question of "when". Our research is trying to bring that "when" to the present.*
+*Artificial Intelligence (AI) is revolutionizing the world, from its applications in the advance of science to its use in our daily routines. Therefore, the question about the application of AI to the distributed and secure computing fields is no longer a question of "if", but a question of "when". Our research is trying to bring that "when" to the present.*
 
 ---
 
 # 🔬 Research Lines
 
-## Publications
+## Automatic Generation of Distributed Algorithms
+
+*Distributed algorithms* are fundamental in modern computation, allowing multiple nodes to work as a single unit of computation, originating what we usually call a *distributed system*. However, the generation of such algorithms is a laborious, complex, and time-consuming task, where multiple properties must be taken into account, such as the failures to tolerate or the synchrony model of the system. With the recent advances in Artificial Intelligence (AI), one question arises: *can AI help in the generation of such algorithms*? We are trying to show and prove that the answer is yes.
+
+### Publications
 
 TBD
 
-## Topics
+### Topics
 
-TBD
+*closed*
 
 ---
 
