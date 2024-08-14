@@ -7,11 +7,11 @@
 
 # 🔬 Research Lines
 
+## Publications
+
 TBD
 
----
-
-# 📜 Publications
+## Topics
 
 TBD
 
