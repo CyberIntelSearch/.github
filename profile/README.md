@@ -1,6 +1,19 @@
+
 # 💡 Team
 
 *Artificial Intelligence (AI) is revolutionizing the world, from its applications in the advance of science, to its use in our daily routines. Therefore, the question about the application of AI to the distributed and secure computing fields is not anymore a question of "if", but a question of "when". Our research is trying to bring that "when" to the present.*
+
+---
+
+# 🔬 Research Lines
+
+TBD
+
+---
+
+# 📜 Publications
+
+TBD
 
 ---
 
@@ -16,14 +29,6 @@
 
 
 ### Past members:
-
----
-
-# 🔬 Research Topics
-
-### Master topics:
-
-*closed*
 
 ---
 
