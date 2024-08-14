@@ -2,6 +2,8 @@
 
 *Artificial Intelligence (AI) is revolutionizing the world, from its applications in the advance of science, to its use in our daily routines. Therefore, the question about the application of AI to the distributed and secure computing fields is not anymore a question of "if", but a question of "when". Our research is trying to bring that "when" to the present.*
 
+---
+
 # 👨‍💻 Members
 
 ### 🟢 Current members:
@@ -15,6 +17,8 @@
 
 ### 🔴 Past members:
 
+---
+
 # 🔬 Research Topics
 
 ### Master topics:
@@ -26,4 +30,4 @@
 Interested in any topic or with an idea that merges the fields of Distributed Computing, Cybersecurity, and Artificial Intelligence? Send an email to **diogo.vaz@tecnico.ulisboa.pt**
 
 ---
-*last update: June 2024*
+*last update: August 2024*
