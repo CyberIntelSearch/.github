@@ -9,7 +9,7 @@
 
 ## Automatic Generation of Distributed Algorithms
 
-*Distributed algorithms* are fundamental in modern computation, allowing multiple nodes to work as a single unit of computation, originating what we usually call a *distributed system*. However, the generation of such algorithms is a laborious, complex, and time-consuming task, where multiple properties must be taken into account, such as the failures to tolerate or the synchrony model of the system. With the recent advances in Artificial Intelligence (AI), one question arises: *can AI help in the generation of such algorithms*? We are trying to show and prove that the answer is yes.
+*Distributed algorithms* are fundamental in modern computation, allowing multiple nodes to work as a single unit of computation, originating what we usually call a *distributed system*. However, the generation of such algorithms is a laborious, complex, and time-consuming task, where multiple properties must be taken into account, such as the failures to tolerate or the synchrony model of the system. With the recent advances in Artificial Intelligence (AI), one question arises: *can AI help in the generation of such algorithms*? We are trying to show and prove that the answer is yes. This research has been conducted by the **FAULTAGE** team (**FAUL**t **T**olerant **A**lgorithm **GE**neration).
 
 ### Publications
 
