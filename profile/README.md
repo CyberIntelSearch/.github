@@ -6,7 +6,7 @@
 
 # 👨‍💻 Members
 
-### 🟢 Current members:
+### Current members:
 
 | **Name** | **Role** | **Topic** | **Date** |
 | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | [Ricardo Toscanelli](https://pt.linkedin.com/in/ricardo-toscanelli) | Master Student | *DisTcoverAI: discovering new distributed algorithms with Artificial Intelligence* | 2024- |
 
 
-### 🔴 Past members:
+### Past members:
 
 ---
 
