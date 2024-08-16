@@ -13,10 +13,10 @@
 
 ### Publications
 
-| **Title** | **Venue** | **Date** |
-| --- | --- | --- |
-| [Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning](https://ieeexplore.ieee.org/document/10155129) | *IEEE Access (journal)* | January 2023 |
-| [Automatic Generation of Distributed Algorithms with Generative AI](https://ieeexplore.ieee.org/document/10206915) | *DSN 2024 - Distrupt track (conference)* | June 2023 |
+| **Title** | **Venue** | **Authors**  |  **Date** |
+| --- | --- | --- | --- |
+| [Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning](https://ieeexplore.ieee.org/document/10155129) | *IEEE Access (journal)* | Diogo Vaz, David Matos, Miguel Pardal and Miguel Correia |January 2023 |
+| [Automatic Generation of Distributed Algorithms with Generative AI](https://ieeexplore.ieee.org/document/10206915) | *DSN 2024 - Distrupt track (conference)* | Diogo Vaz, David Matos, Miguel Pardal and Miguel Correia | June 2023 |
 
 ### Topics
 
