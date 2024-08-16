@@ -13,7 +13,10 @@
 
 ### Publications
 
-TBD
+| **Paper** | **Venue** | **Date** |
+| --- | --- | --- |
+| [Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning](https://ieeexplore.ieee.org/document/10155129) | *IEEE Access (journal)* | January 2023 |
+| [Automatic Generation of Distributed Algorithms with Generative AI](https://ieeexplore.ieee.org/document/10206915) | *DSN 2024 - Distrupt track (conference)* | June 2023 |
 
 ### Topics
 
