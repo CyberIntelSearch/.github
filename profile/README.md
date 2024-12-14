@@ -26,16 +26,9 @@
 
 # 👨‍💻 Members
 
-### Current members:
+This group is divided into different teams, depending on the purpose. You can see the list of teams [here](https://github.com/orgs/IntelligentSecureDistributedComputing/teams).
 
-| **Name** | **Role** | **Topic** | **Date** |
-| --- | --- | --- | --- |
-| [Diogo Vaz](https://diogolvaz.github.io/) | PhD Student and Supervisor | *Solving Distributed Systems' problems using Generative AI* | 2021- |
-| [Henrique Cavaco](https://pt.linkedin.com/in/henriquecavaco) | Master Student | *BroadAlert: Automatic Generation of Distributed IoT Algorithms with Machine Learning* | 2024- |
-| [Ricardo Toscanelli](https://pt.linkedin.com/in/ricardo-toscanelli) | Master Student | *DisTcoverAI: discovering new distributed algorithms with Artificial Intelligence* | 2024- |
-
-
-### Past members:
+To check the current members, see the members list [here](https://github.com/orgs/IntelligentSecureDistributedComputing/people).
 
 ---
 
